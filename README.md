@@ -7,4 +7,5 @@ Summary of useful `git` commands.
 `git add .` - Add everything in current directory to git index
 `git commit -m "Some message"` - Commit current work to local repository
 `git log` - Show git commit history
-`git log --online` -Show git commit history (compact)
+`git log --oneline` -Show git commit history (compact)
+`git config -l` List git configuration
