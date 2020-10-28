@@ -13,3 +13,5 @@
 * `git branch someBranch` - Creat branches `someBranch`
 * `git checkout someBranch` - Move to branch `someBranch`
 * `git checkout -b otherBranch` - Create and checkout `otherBranch`
+
+### Remote Commands
